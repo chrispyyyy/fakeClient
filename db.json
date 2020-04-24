@@ -1,6 +1,8 @@
-{
-"clientCode": "",
-"clientName": "",
-"orgUnitName": "",
-"subOrgUnitName": ""
-}
+[
+  {
+"clientCode": "AL34533",
+"clientName": "Meyer",
+"orgUnitName": "Oberste",
+"subOrgUnitName": "Unter"
+  }
+]
